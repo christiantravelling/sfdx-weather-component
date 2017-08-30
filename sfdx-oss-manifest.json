@@ -1,18 +1,9 @@
 {
   "sfdxSource": true,
   "version": "1.0.0",
+  "sourceFolder": "",
+  "folders": [
+  ],
   "files": [
-    [
-      "main/default/classes/IBMWeather_Controller.cls",
-      "main/default/classes/IBMWeather_Controller.cls-meta.xml",
-      "main/default/staticresources/IBMWeatherIcons_v1.resource",
-      "main/default/staticresources/IBMWeatherIcons_v1.resource-meta.xml",
-      "main/default/namedCredentials/IBM_Bluemix_Weather.namedCredential-meta.xml",
-      "main/default/aura/IBMWeather_Current/IBMWeather_Current.cmp",
-      "main/default/aura/IBMWeather_Current/IBMWeather_Current.cmp-meta.xml",
-      "main/default/aura/IBMWeather_Current/IBMWeather_Current.css",
-      "main/default/aura/IBMWeather_Current/IBMWeather_CurrentController.js",
-      "main/default/aura/IBMWeather_Current/IBMWeather_CurrentHelper.js"
-    ]
   ]
 }
